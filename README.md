@@ -1,0 +1,1 @@
+In this project I was created a system of Shopping Card for improve my skills using a different technology suck as: NodeJs, ECMA Script 6, ESlint, Babel, Express, Mocha, Chai, SuperTest, Joi, Joi-Assert, TestDouble, Docker, MongoDB, Passport, CSurf, ExpressSession.
